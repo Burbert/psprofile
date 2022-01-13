@@ -1,2 +1,3 @@
-# psprofile
-PowerShell Profile
+# PowerShell Profile
+My PowerShell profile.
+
